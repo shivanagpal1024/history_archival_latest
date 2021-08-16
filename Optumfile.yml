@@ -1,0 +1,8 @@
+apiVersion: v2
+metadata:
+  askId: UHGWM110-000154
+  caAgileId: Lasagna
+  projectKey: com.uhg.ecs
+  projectFriendlyName: ECAP
+  componentType: code
+  targetQG: GATE_00
